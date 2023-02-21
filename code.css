@@ -1,0 +1,185 @@
+.All{
+    height: 1024px;
+    width: 1600px;
+    
+    border-radius: 0px;
+    background-color: rgba(10,10,10,0.3);
+    
+    position: relative;
+
+}
+/* Phần trái */
+
+.left{
+    height: 1024px;
+    width: 272px;
+    left: 0px;
+    top: 0px;
+    border-radius: [object Object]px;
+    background-color: red;
+    position: absolute; 
+
+}
+/* Phần giữa */
+
+.middle{
+    height: 892px;
+    width: 1151px;
+    left: 312px;
+    top: 48px;
+    border-radius: [object Object]px;
+    background-color: rgba(25, 25, 25, 0.5);
+    position: absolute; 
+}
+
+
+
+
+
+/* Phần phải  */
+
+
+.right{
+    height: 1024px;
+    width: 384px;
+    left: 1216px;
+    top: 0px;
+    border-radius: 0px;
+    background: rgba(255, 255, 255, 1);
+
+    position: absolute; 
+    
+    
+
+    
+
+
+
+}
+/* profile */
+.profile{
+    
+    height: 56px;
+    width: 240px;
+    
+    top: 43px;
+    border-radius: [object Object]px;
+    background-color: red;
+    position: absolute; 
+   
+
+
+
+}
+/* Progress */
+.progress{
+    position: absolute;
+    height: 251px;
+    width: 312px;
+   
+    top: 171px;
+    border-radius: [object Object]px;
+    background-color: red;
+    position: absolute; 
+}
+/* Upcoming task */
+.upcoming_task{
+    
+    
+    height: 176px;
+    width: 254px;
+    
+    top: 486px;
+    border-radius: [object Object]px;
+    background-color: red;
+    position: absolute; 
+    
+}
+.G100{
+    height: 48px;
+    width: 213px;
+    
+    top: 53px;
+    border-radius: 6px;
+    position: absolute;
+    background-color: aqua;
+
+
+}
+.G101{
+    height: 48px;
+    width: 254px;
+   
+    top: 128px;
+    border-radius: 6px;
+    background-color: aqua;
+
+
+}
+
+/* Download */
+.download{
+    
+
+
+width: 312px;
+height: 232px;
+
+top: 736px;
+background-size: 100% 100%;
+
+box-sizing: border-box;
+
+padding-bottom: 28px;
+
+
+background-image:  url(Img.png) ;
+background-clip: content-box;
+background-repeat: no-repeat;
+border-radius: 8px;
+position: absolute; 
+background-origin: padding-box;
+background-color: rgba(245, 245, 251, 1)
+
+
+
+
+}
+
+.Icon1{
+    height: 40px;
+    width: 40px;
+    left: 24px;
+    top: 85px;
+    border-radius: 50% 50%;
+    background-color: rgba(10,10,10,0.3);
+    position: absolute;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+    }
+    .Icon2{
+        display:flex;
+        height: 40px;
+        width: 40px;
+        left: 80px;
+        top: 85px;
+        border-radius: 50% 50%;
+        background-color: rgba(10,10,10,0.3);
+        position: absolute;
+        justify-content: center;
+        align-items: center;
+
+        }
+    .img{
+        width: 50%;
+        height: 50%;
+       
+      
+        }
+    .textdown{
+        margin-top: 21px;
+        
+        margin-left: 26px;
+    }
